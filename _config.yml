@@ -8,5 +8,5 @@ include: ['_images']
 nav:
   - title: "Home"
     url: /
-  - title: "Posts"
-    url: /RandomVariable/posts/
+  - title: "Bachelor Thesis"
+    url: /RandomVariable/BachelorThesis/
