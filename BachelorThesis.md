@@ -29,11 +29,8 @@ For an industrial level production of amylases, bacteria and fungi are cultured 
 ![Soil-borne bacterial and fungal colonies](/RandomVariable/_images/petridish bacterial colony.png){:width="300px"}
 
 
-## Results and Discussion
+## Results
 What my group and I actually observed and measured during the project is no longer accessible to me. However, this section explains how we analysed the final results empirically.
-
-
-## Conclusion
 
 
 
