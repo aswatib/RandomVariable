@@ -36,5 +36,5 @@ For an industrial level production of amylases, bacteria and fungi are cultured 
 ## Conclusion
 
 
-## Main Protocol Reference:
+### Main Protocol Reference
 Toye Ekunsaumi, Laboratory production and assay of amylase by fungi and bacteria.UWWashington county. Vihinen, M. and Mantsala, P. (1989). Characterization of a thermostable Bacillus stearothermophilus a-amylase. Biotechnol Appl Biochem 12, 427–435
