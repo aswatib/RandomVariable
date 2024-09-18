@@ -16,7 +16,7 @@ It's unrelatable in this era to not having a digital copy of a bachelor disserta
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## Background and theory
-Amylases are starch- and glycogen-breaking enzymes that are produced by many different kinds of organisms. From bacteria to fungi, plants and humans, amylase production is done by all. Speficially, bacteria and fungi produce amylase and then releases it outside their cell membranes to conduct digestion extracellularly. By breaking insoluble starch using amylases, they can absorb the remaining soluble parts such as glucose or maltose through their cell wall pores.
+Amylases are starch- and glycogen-breaking enzymes that are produced by many different kinds of organisms. From bacteria to fungi, plants and humans, amylase production is done by all. Specifically, bacteria and fungi produce amylase and then releases it outside their cell membranes to conduct digestion extracellularly. By breaking insoluble starch using amylases, they can absorb the remaining soluble parts such as glucose or maltose through their cell wall pores.
 
 There are three different types of amylases that are produced by bacterial and fungal cells and are divided in line with their ability to break down starch molecules. Most microbial amylases contain a mixture of these different types and they are:
 1. Alpha amylases: break down the sugar bonds at random and thereby reduce the viscosity of starch
