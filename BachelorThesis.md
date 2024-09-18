@@ -1,6 +1,6 @@
 ---
 title: "Bachelor Thesis Project"
-permalink: /RandomVariable/posts/
+permalink: /RandomVariable/BachelorThesis/
 layout: default
 ---
 
