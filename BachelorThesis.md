@@ -1,6 +1,6 @@
 ---
 title: "Bachelor Thesis Project"
-layout: default
+layout: blog
 ---
 
 # My bacherlor thesis project
