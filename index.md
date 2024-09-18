@@ -1,4 +1,4 @@
 ---
-title: RandomVariable
+title: Home
 layout: home
 ---
