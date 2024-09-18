@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: RandomVariable
+description: A bio data science blog
 theme: just-the-docs
+url: https://aswatib.github.io/RandomVariable
+baseurl: "/RandomVariable"
+include: ['_images']
 
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+nav:
+  - title: "Home"
+    url: /
+  - title: "Posts"
+    url: /RandomVariable/posts/
