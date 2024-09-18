@@ -1,6 +1,5 @@
 ---
 title: "Bachelor Thesis Project"
-permalink: /RandomVariable/
 layout: default
 ---
 
