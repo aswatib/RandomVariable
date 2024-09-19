@@ -26,8 +26,22 @@ There are three different types of amylases that are produced by bacterial and f
 For an industrial level production of amylases, bacteria and fungi are cultured and harvested on a large scale -- mainly these species: Bacillus subtilis, Bacillus licheniformis, Bacillus amyloliquifaciens and Aspergillus niger. These amylases are often used for corn syrup preparation, as detergent additives, starch sachharification in alcohol production, and brewing.
 
 ## Methods and material
-![Soil-borne bacterial and fungal colonies](/RandomVariable/_images/petridish bacterial colony.png){:width="300px"}
+Amylase-producing microbes can be sourced and isolated in a few different ways, getting them from the moist debris collected from the top soil in a nearby park was convenient. 100 grams of the collected soil sample was mixed with 90 mL sterile distilled water, which was then further diluted by adding 10 mL of this mix into another fresh breaker of 90 mL sterile distilled water. This dilution was then used to inoculate multiple agar plates for respective bacterial and fungal growth. 
 
+### Bacterial culture
+For growing bacterial culture, nutrient agar plates with 1% weight-by-volume soluble starch concentration were inoculated using 0.1 mL of the dilution mix and then incubated at 30°C for 24 hours.
+
+### Fungal culture
+For growing fungal culture, 0.1 mL of dilution was used to inoculate potato dextrose agar plates fortified with 0.1 mg/mL streptomycin sulfate, in order to avoid any bacterial growth. Inoculated plates were then incubated at room temperature for 72 hours.
+
+### Identification of culture growth and re-culturing for purer strains
+It was important that the producers chosen for amylase extraction were relevant as many a times there could be certain strains that produce starch and thus needed to be avoided for the following processes. Therefore, starch-producing bacterial colonies were identified first by means of visible clearing around them, and then by staining the whole culture using Gram's iodine. Portions of the culture that stained black were avoided so as to pick only the amylase producers.
+
+Using a sterilized dissecting needle, fresh agar plates for both bacterial and fungal cultures were streaked in the same was as conducted in the first round. Newly inoculated plates were then incubated in the same way again at respective requisite temperature and for the respective durations. Once the incubation periods were over, cultures were stored in a referigerator until the next usage.
+
+### Extraction of Amylase
+
+### Enzyme activity measurement
 
 ## Results
 What my group and I actually observed and measured during the project is no longer accessible to me. However, this section explains how we analysed the final results empirically.
@@ -36,3 +50,5 @@ What my group and I actually observed and measured during the project is no long
 
 ### Main Protocol Reference
 Toye Ekunsaumi, Laboratory production and assay of amylase by fungi and bacteria.UWWashington county. Vihinen, M. and Mantsala, P. (1989). Characterization of a thermostable Bacillus stearothermophilus a-amylase. Biotechnol Appl Biochem 12, 427–435
+
+![Soil-borne bacterial and fungal colonies](/RandomVariable/_images/petridish bacterial colony.png){:width="300px"}
