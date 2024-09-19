@@ -3,7 +3,7 @@ title: "Bachelor Thesis Project"
 layout: default
 ---
 
-# My bacherlor thesis project
+# My bacherlor thesis project - This blog is a work in progress.
 It's unrelatable in this era to not having a digital copy of a bachelor dissertation, but that's how it has been for me since I graduated long back in 2009. This was when students at the university were supposed to submit only a printed version. When I finished my master's thesis this year, I realized I might need to write a bit about my bachelor's thesis project as well somewhere. And that's what this blog post is mainly about. My actual bachelor thesis dissertation/report was around 80-85 pages as I recall, and this post is mainly a gist of the report based on my memory in combination with a standard scientific protocol -- luckily, I found a digital copy of the protocol that my group and I had followed during the project.
 
 **Thesis title**: Extraction, purification, and estimation of specific activity of microbial amylase
