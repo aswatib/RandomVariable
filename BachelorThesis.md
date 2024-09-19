@@ -4,7 +4,7 @@ layout: default
 ---
 
 # My bacherlor thesis project - This blog is a work in progress.
-It's unrelatable in this era to not having a digital copy of a bachelor dissertation, but that's how it has been for me since I graduated long back in 2009. This was when students at the university were supposed to submit only a printed version. When I finished my master's thesis this year, I realized I might need to write a bit about my bachelor's thesis project as well somewhere. And that's what this blog post is mainly about. My actual bachelor thesis dissertation/report was around 80-85 pages as I recall, and this post is mainly a gist of the report based on my memory in combination with a standard scientific protocol -- luckily, I found a digital copy of the protocol that my group and I had followed during the project.
+It's unrelatable in this era to not have a digital copy of a bachelor dissertation, but that's how it has been for me since I graduated long back in 2009. This was when students at the university were supposed to submit only a printed version. When I finished my master's thesis this year, I realized I might need to write a bit about my bachelor's thesis project as well somewhere. And that's what this blog post is mainly about. My actual bachelor thesis dissertation/report was around 80-85 pages as I recall, and this post is mainly a gist of the report based on my memory in combination with a standard scientific protocol -- luckily, I found a digital copy of the protocol that my group and I had followed during the project.
 
 **Thesis title**: Extraction, purification, and estimation of specific activity of microbial amylase
 
@@ -39,7 +39,12 @@ It was important that the producers chosen for amylase extraction were relevant 
 
 Using a sterilized dissecting needle, fresh agar plates for both bacterial and fungal cultures were streaked in the same way as done previously in the first round. Newly inoculated plates were then incubated at respective requisite temperature and for the respective durations (24 hours for bacteria and 72 hours for fungi). Once the incubation periods were over, cultures were stored in a referigerator until the next usage.
 
-### Extraction of Amylase
+### Amylase production and extraction
+For allowing the cultures to produce amylase, similar inoculation and incubation procedures were followed again but this time in agar slants in flasks instead of agar plates in petridishes. Incubation for fungal growth at this stage was conducted with intermittent shaking.
+
+For the extraction of amylase from fungal culture slants, mycelium was removed and the remaining part was filtered using Whittmann number 1 paper. The filtrate was used as the crude extract containing fungal amylases.
+
+For the extraction from bacterial culture slants, a high-speed referigerated centrifuge was used. The bacterial culture from the slants was poured into the centrifuge tubes and spun for about 20 minutes at 5000 rpm. Supernatant was used as the crude extract containing bacterial amylases.
 
 ### Enzyme activity measurement
 
