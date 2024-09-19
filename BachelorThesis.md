@@ -37,7 +37,7 @@ For growing fungal culture, 0.1 mL of dilution was used to inoculate potato dext
 ### Identification of culture growth and re-culturing for purer strains
 It was important that the producers chosen for amylase extraction were relevant as many a times there could be certain strains that produce starch and thus needed to be avoided for the following processes. Therefore, starch-producing bacterial colonies were identified first by means of visible clearing around them, and then by staining the whole culture using Gram's iodine. Portions of the culture that stained black were avoided so as to pick only the amylase producers.
 
-Using a sterilized dissecting needle, fresh agar plates for both bacterial and fungal cultures were streaked in the same was as conducted in the first round. Newly inoculated plates were then incubated in the same way again at respective requisite temperature and for the respective durations. Once the incubation periods were over, cultures were stored in a referigerator until the next usage.
+Using a sterilized dissecting needle, fresh agar plates for both bacterial and fungal cultures were streaked in the same way as done previously in the first round. Newly inoculated plates were then incubated at respective requisite temperature and for the respective durations (24 hours for bacteria and 72 hours for fungi). Once the incubation periods were over, cultures were stored in a referigerator until the next usage.
 
 ### Extraction of Amylase
 
