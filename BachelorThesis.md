@@ -8,10 +8,6 @@ It's unrelatable in this era to not have a digital copy of a bachelor dissertati
 
 **Thesis title**: Extraction, purification, and estimation of specific activity of microbial amylase
 
-**Supervised by**: Dr. Shipra Jha
-
-**Institute:** Amity Institute of Biotechnology
-
 **Timeline**: Summer 2009
 
 ---------------------------------------------------------------------------------------------------------------------------------------
