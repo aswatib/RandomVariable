@@ -8,10 +8,5 @@ I am S T Nielsen and am an engineer with a master's degree in Bioinformatics and
 
 My research interests include microbiomes, ancient and environmental DNA, ecological modelling with ecoinformatics, and population genetics.
 
-Here, you can find a few of my learnings and write-ups about my areas of interest in data science, genomics, bioinformatics and ecoinformatics. For any queries related to my blogs, you can connect with me either through email or through LinkedIn. 
-
-Wish you a good time here!
-
-Contact:
-- [Email](mailto:swtak@proton.me)
-- [LinkedIn](https://www.linkedin.com/in/s-t-nielsen/)
+Here, you can find a few of my learnings and write-ups about my areas of interest in data science, genomics, bioinformatics and ecoinformatics.
+Wish you a good time!
