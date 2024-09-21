@@ -19,7 +19,7 @@ There are three different types of amylases that are produced by bacterial and f
 2. Beta amylases: break down glucos-glucose bonds by remocing two glucose units at a time and produce maltose
 3. Amyloglucosidases: break successive bonds from non-reducing end of straight chain and produce glucose
 
-For an industrial level production of amylases, bacteria and fungi are cultured and harvested on a large scale -- mainly these species: Bacillus subtilis, Bacillus licheniformis, Bacillus amyloliquifaciens and Aspergillus niger. These amylases are often used for corn syrup preparation, as detergent additives, starch sachharification in alcohol production, and brewing.
+For an industrial level production of amylases, bacteria and fungi are cultured and harvested on a large scale -- mainly these species: Bacillus subtilis, Bacillus licheniformis, Bacillus amyloliquifaciens and Aspergillus niger. These amylases are often used for corn syrup preparation, as detergent additives, starch saccharification in alcohol production, and brewing.
 
 ## Material and methods
 Amylase-producing microbes can be sourced and isolated in a few different ways, getting them from the moist debris collected from the top soil in a nearby park was convenient. 100 grams of the collected soil sample was mixed with 90 mL sterile distilled water, which was then further diluted by adding 10 mL of this mix into another fresh breaker of 90 mL sterile distilled water. This dilution was then used to inoculate multiple agar plates for respective bacterial and fungal growth. 
