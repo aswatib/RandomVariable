@@ -54,7 +54,5 @@ Enzymatic reaction in the experimental tubes were stopped by adding 2mL of dinit
 
 Once the equivalent concentrations of reducing sugars for all experimental tubes were estimated, specific activity was calcuated by dividing the total amount of reducing sugars (glucose) produced by the product of incubation bath time (30 minutes) for enzymatic reaction and amount of enzyme.
 
-### Main Protocol Reference
+### Main reference
 Toye Ekunsaumi, Laboratory production and assay of amylase by fungi and bacteria.UWWashington county. Vihinen, M. and Mantsala, P. (1989). Characterization of a thermostable Bacillus stearothermophilus a-amylase. Biotechnol Appl Biochem 12, 427–435
-
-![Soil-borne bacterial and fungal colonies](/RandomVariable/_images/petridish bacterial colony.png){:width="300px"}
