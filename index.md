@@ -1,6 +1,6 @@
 ---
 title: About Me
-layout: home
+layout: about
 ---
 Hello and welcome to RandomVariable!
 
