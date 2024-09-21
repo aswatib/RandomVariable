@@ -42,12 +42,16 @@ For the extraction of amylase from fungal culture slants, mycelium was removed a
 
 For the extraction from bacterial culture slants, a high-speed referigerated centrifuge was used. The bacterial culture from the slants was poured into the centrifuge tubes and spun for about 20 minutes at 5000 rpm. Supernatant was used as the crude extract containing bacterial amylases.
 
-### Enzyme activity measurement
+### Enzyme activity measurement and final result
+What my group and I actually observed and measured during the project is no longer accessible to me. However, this section explains how we obtained and analysed the final results experimentally and empirically.
 
-## Results
-What my group and I actually observed and measured during the project is no longer accessible to me. However, this section explains how we analysed the final results empirically.
+Amylase extracts from both fungal and bacterial slant cultures were collected in separate test tubes and mixed with 1 mL of 1% soluble starch in citrate-phosphate buffer with a pH of 6.5. Amylases typically function in a neutral to slightly acidic environment and this mix was to allow for the enzyme to remain active and continue to break down starch for next stage of specific activity measurements. The immediate next step after mixing enzyme extracts with buffer and starch was to incubate the mix in a water bath for 40°C for 30 minutes. This allowed for an optimal temperature for extracted amylases to break down the starch.
 
+Comparative measurement was conducted by means of a blank with same amount of enzyme mix, with enzymatic activity inactivated by boiling the enzyme extracts for 20 minutes before adding to the starch and buffer mix.
 
+Enzymatic reaction in the experimental tubes were stopped by adding 2mL of dinitrosalicylic acid (DNS) reagent, followed by 5 minutes of boiling. Use of DNS allowed for the formation of a colored compound on reaction with reducing sugars in the solution, while boiling denatured the enzyme. On cooling, 20mL of distilled water was added to the colored solution and a sphectrophotometer was used to measure its absorbance levels based on its color intensity at 540 nm -- as the intensity of its color and thus the absorbance of light are directly proportional to the amount of reducing sugars present in the solution. A pre-prepared glucose concentration calibration curve was used to find the equivalents based on absorbance levels estimated using the sphectrophotometer.
+
+Once the equivalent concentrations of reducing sugars for all experimental tubes were estimated, specific activity was calcuated by dividing the total amount of reducing sugars (glucose) produced by the product of incubation bath time (30 minutes) for enzymatic reaction and amount of enzyme.
 
 ### Main Protocol Reference
 Toye Ekunsaumi, Laboratory production and assay of amylase by fungi and bacteria.UWWashington county. Vihinen, M. and Mantsala, P. (1989). Characterization of a thermostable Bacillus stearothermophilus a-amylase. Biotechnol Appl Biochem 12, 427–435
