@@ -3,7 +3,7 @@ title: "Bachelor Thesis Project"
 layout: default
 ---
 
-# My bacherlor thesis project - This blog is a work in progress.
+# My bacherlor thesis project
 It's unrelatable in this era to not have a digital copy of a bachelor dissertation, but that's how it has been for me since I graduated long back in 2009. This was when students at the university were supposed to submit only a printed version. When I finished my master's thesis this year, I realized I might need to write a bit about my bachelor's thesis project as well somewhere. And that's what this blog post is mainly about. My actual bachelor thesis dissertation/report was around 80-85 pages as I recall, and this post is mainly a gist of the report based on my memory in combination with a standard scientific protocol -- luckily, I found a digital copy of the protocol that my group and I had followed during the project.
 
 **Thesis title**: Extraction, purification, and estimation of specific activity of microbial amylase
@@ -42,9 +42,10 @@ For the extraction of amylase from fungal culture slants, mycelium was removed a
 
 For the extraction from bacterial culture slants, a high-speed referigerated centrifuge was used. The bacterial culture from the slants was poured into the centrifuge tubes and spun for about 20 minutes at 5000 rpm. Supernatant was used as the crude extract containing bacterial amylases.
 
-### Enzyme activity measurement and final result
+## Results
 What my group and I actually observed and measured during the project is no longer accessible to me. However, this section explains how we obtained and analysed the final results experimentally and empirically.
 
+### Enzyme activity measurement
 Amylase extracts from both fungal and bacterial slant cultures were collected in separate test tubes and mixed with 1 mL of 1% soluble starch in citrate-phosphate buffer with a pH of 6.5. Amylases typically function in a neutral to slightly acidic environment and this mix was to allow for the enzyme to remain active and continue to break down starch for next stage of specific activity measurements. The immediate next step after mixing enzyme extracts with buffer and starch was to incubate the mix in a water bath for 40°C for 30 minutes. This allowed for an optimal temperature for extracted amylases to break down the starch.
 
 Comparative measurement was conducted by means of a blank with same amount of enzyme mix, with enzymatic activity inactivated by boiling the enzyme extracts for 20 minutes before adding to the starch and buffer mix.
