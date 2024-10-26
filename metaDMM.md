@@ -16,8 +16,8 @@ The metaDMM method allows you to generate synthetic microbiome reads with this u
 
 
 <script src="https://utteranc.es/client.js"
-        repo="https://github.com/aswatib/RandomVariable"
-        issue-term="metaDMM"
+        repo="aswatib/RandomVariable"
+        issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
         async>
