@@ -15,10 +15,9 @@ The distribution model that I used for this simulation was Dirichlet-Multinomial
 The metaDMM method allows you to generate synthetic microbiome reads with this underlying Dirichlet-Multinomial distribution – although it still has a few areas of improvement.
 
 
-
 <script src="https://utteranc.es/client.js"
-        repo="RandomVariable"
-        issue-term="pathname"
+        repo="https://github.com/aswatib/RandomVariable"
+        issue-term="metaDMM"
         theme="github-light"
         crossorigin="anonymous"
         async>
