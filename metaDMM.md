@@ -1,4 +1,9 @@
+---
+title: "metaDMM"
+layout: default
+---
 
+# metaDMM for Metagenomics
 Metagenomics has risen into a transformative field that allows researchers to study the genetic material of entire microbial communities directly from environmental samples, providing unprecedented insights into microbial diversity, functions, and interactions.
 
 When we talk about microbiome data, we're usually referring to the relative abundances of different microbial species in a sample. This data is compositional because it describes the proportions of microbes relative to each other, rather than absolute counts.
